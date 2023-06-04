@@ -5,7 +5,7 @@ The elements from indices 0 to n - 1 (**inclusive**) of original should form the
 Return *an m x n 2D array constructed according to the above procedure, or an empty 2D array if it is impossible*.<br>
 
 **Example 1:**<br>
-![example1]()<br>
+![example1](https://github.com/Srijana1425/2D_Array_Assignment5/blob/main/img/example1.png)<br>
 **Input:** original = [1,2,3,4], m = 2, n = 2<br>
 **Output:** [[1,2],[3,4]]<br>
 **Explanation:** The constructed 2D array should contain 2 rows and 2 columns.
@@ -18,7 +18,7 @@ The second group of n=2 elements in original, [3,4], becomes the second row in t
 You have n coins and you want to build a staircase with these coins. The staircase consists of k rows where the ith row has exactly i coins. The last row of the staircase **may be** incomplete.
 Given the integer n, return *the number of **complete rows** of the staircase you will build*.<br>
 **Example 1:**<br>
-![example2]()<br>
+![example2](https://github.com/Srijana1425/2D_Array_Assignment5/blob/main/img/example2.png)<br>
 **Input:** n = 5<br>
 **Output:** 2<br>
 **Explanation:** Because the 3rd row is incomplete, we return 2<br><br>
