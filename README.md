@@ -12,7 +12,7 @@ Return *an m x n 2D array constructed according to the above procedure, or an em
 The first group of n=2 elements in original, [1,2], becomes the first row in the constructed 2D array.
 The second group of n=2 elements in original, [3,4], becomes the second row in the constructed 2D array.<br><br>
 *Answer*<br>
-**code** [Link]()<br><br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment5/blob/main/ans1.js)<br><br>
 *********************************************************************************************************************************************
 **Question 2**<br>
 You have n coins and you want to build a staircase with these coins. The staircase consists of k rows where the ith row has exactly i coins. The last row of the staircase **may be** incomplete.
@@ -24,7 +24,7 @@ Given the integer n, return *the number of **complete rows** of the staircase yo
 **Explanation:** Because the 3rd row is incomplete, we return 2<br><br>
 
 *Answer*<br>
-**code** [Link]()<br><br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment5/blob/main/ans2.js)<br><br>
 *********************************************************************************************************************************************
 **Question 3**<br>
 Given an integer array nums sorted in **non-decreasing** order, return *an array of **the squares of each number** sorted in non-decreasing order*.<br>
@@ -35,7 +35,7 @@ Given an integer array nums sorted in **non-decreasing** order, return *an array
 After sorting, it becomes [0,1,9,16,100].<br><br>
 
 *Answer*<br>
-**code** [Link]()<br><br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment5/blob/main/ans3.js)<br><br>
 *********************************************************************************************************************************************
 **Question 4**<br>
 Given two **0-indexed** integer arrays nums1 and nums2, return *a list* answer *of size* 2 *where:*<br>
@@ -51,7 +51,7 @@ For nums2, nums2[0] = 2 is present at index 1 of nums1, whereas nums2[1] = 4 and
 
 
 *Answer*<br>
-**code** [Link]()<br><br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment5/blob/main/ans4.js)<br><br>
 *********************************************************************************************************************************************
 **Question 5**<br>
 Given two integer arrays arr1 and arr2, and the integer d, *return the distance value between the two arrays*.<br>
@@ -77,7 +77,7 @@ For arr1[2]=8 we have:<br>
 **|8-8|=0 <= d=2**<br><br>
 
 *Answer*<br>
-**code** [Link]()<br><br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment5/blob/main/ans5.js)<br><br>
 *********************************************************************************************************************************************
 **Question 6**<br>
 Given an integer array nums of length n where all the integers of nums are in the range [1, n] and each integer appears **once** or **twice**, return *an array of all the integers that appears **twice***.
@@ -87,7 +87,7 @@ You must write an algorithm that runs in O(n) time and uses only constant extra 
 **Output:**[2,3]<br><br>
 
 *Answer*<br>
-**code** [Link]()<br><br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment5/blob/main/ans6.js)<br><br>
 *********************************************************************************************************************************************
 **Question 7**<br>
 Suppose an array of length n sorted in ascending order is **rotated** between 1 and n times. For example, the array nums = [0,1,2,4,5,6,7] might become:<br>
@@ -103,7 +103,7 @@ You must write an algorithm that runs in O(log n) time.<br>
 The original array was [1,2,3,4,5] rotated 3 times.<br><br>
 
 *Answer*<br>
-**code** [Link]()<br><br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment5/blob/main/ans7.js)<br><br>
 *********************************************************************************************************************************************
 **Question 8**<br>
 An integer array original is transformed into a **doubled** array changed by appending **twice the value** of every element in original, and then randomly **shuffling** the resulting array.
@@ -119,5 +119,5 @@ Other original arrays could be [4,3,1] or [3,1,4].<br><br>
 
 
 *Answer*<br>
-**code** [Link]()<br><br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment5/blob/main/ans8.js)<br><br>
 *********************************************************************************************************************************************
